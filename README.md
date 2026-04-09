@@ -160,5 +160,5 @@ This project is for educational purposes. Feel free to fork and build on it.
 
 ## Author
 
-NAME : VAUTREY AKSHIT
-EMAIL : vautreyakshit@gmail.com
+- NAME : VAUTREY AKSHIT
+- EMAIL : vautreyakshit@gmail.com
